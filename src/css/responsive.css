@@ -1,0 +1,36 @@
+@media (max-width: 1440px) {
+    .illustration-img img {
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    
+    
+    
+    .main {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .text h1 {
+        font-size: 28px;
+    }
+
+    .text p {
+        font-size: 19px;
+    }
+
+    .social {
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .text a {
+        padding: 10px 70px;
+    }
+
+    .header {
+        margin-bottom: 40px;
+    }
+}
